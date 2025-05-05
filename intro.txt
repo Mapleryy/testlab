@@ -1,2 +1,2 @@
 Hello World
-My name is Tristan this is IT101.
+My name is Tristan this is the class IT101.
